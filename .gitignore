@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+/react_foundations/chapter_9/node_modules
+/next_js_dashboard_tutorial/nextjs-dashboard/node_modules
 /.pnp
 .pnp.js
 .yarn/install-state.gz
